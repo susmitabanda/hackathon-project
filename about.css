@@ -1,0 +1,21 @@
+body{
+    height: 100%;
+    width: 100%;
+    background: url(i12.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+H1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    color: rgb(255, 89, 0);
+}
+
+p{
+    margin-left: 50px;
+    margin-right: 600px;
+    color: rgb(38, 38, 38);
+    font-family: cursive;
+}
